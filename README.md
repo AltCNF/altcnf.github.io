@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## C'est quoi?
 
-You can use the [editor on GitHub](https://github.com/AltCNF/altcnf.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+AltCNF c'est la rencontre des conférenciers dont les présentations ont été annulées à cause de l'épidémie de COVID-19.
+En 15 minutes ils nous parlent du sujet qu'ils auraient abordé.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### YouTube
 
-### Markdown
+Les vidéos sont en ligne sur YouTube.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Twitter
 
-```markdown
-Syntax highlighted code block
+Suivez le projet sur Twitter: [@AltCNF](https://twitter.com/AltCNF)
 
-# Header 1
-## Header 2
-### Header 3
+## Un projet communautaire
 
-- Bulleted
-- List
+Le site et les vidéos sont publiés sous licence libre.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AltCNF/altcnf.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Comme un projet open-source vous pouvez faire des retours (signaler un problème, suggérer une interview, …) dans [les issues GitHub du projet](https://github.com/DocsD/docsd.github.io/issues).
+Toutes les idées sont les bienvenues.
