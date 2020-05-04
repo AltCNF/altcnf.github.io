@@ -5,7 +5,7 @@ En 15 minutes ils nous parlent du sujet qu'ils auraient abordé.
 
 ### YouTube
 
-Les vidéos sont en ligne sur YouTube.
+Les vidéos sont publiées sur la chaine [AltCNF sur YouTube](https://www.youtube.com/channel/UC6o8zLLpvz9a0mTXBcuNOZw)
 
 ### Twitter
 
